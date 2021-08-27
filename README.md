@@ -1,2 +1,3 @@
 # aws-bootstrap
-AWS Web application
+AWS Web application, deployment on AWS EC2
+
